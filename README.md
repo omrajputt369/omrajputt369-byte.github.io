@@ -6,7 +6,7 @@
   <a href="https://github.com/omrajputt369-byte" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://comicsportfolio.netlify.app/" target="_blank">
+  <a href="https://omrajput.me/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-red?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
   </a>
 </p>
@@ -15,7 +15,7 @@ Welcome to the **OM CODES** repository! This is a personal portfolio website des
 
 ## 🔗 Live Demo
 
-You can view the live project here: [https://comicsportfolio.netlify.app/](https://comicsportfolio.netlify.app/)
+You can view the live project here: [https://omrajput.me//](https://omrajput.me/)
 
 ## 🌟 Features
 
