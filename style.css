@@ -437,6 +437,8 @@ hr {
     box-shadow: 15px 15px 0px var(--comic-red);
     transform: rotate(2deg);
     transition: transform 0.3s ease;
+    object-fit: cover;
+    object-position: center top;
 }
 
 .home img:hover {
@@ -645,6 +647,7 @@ hr {
     border: 3px solid var(--comic-black);
     display: block;
     object-fit: cover;
+    object-position: center top;
 }
 
 .info-text h5 {
@@ -702,6 +705,8 @@ hr {
 .photo-container img {
     width: 280px;
     border: 2px solid var(--comic-black);
+    object-fit: cover;
+    object-position: center top;
 }
 
 /* TAPE EFFECT */
