@@ -3,7 +3,7 @@
 ![Portfolio Preview](./images/portfolio-showcase.png)
 
 <p align="center">
-  <a href="https://github.com/omrajputt369-byte" target="_blank">
+  <a href="https://github.com/omrajputt369" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://omrajput.me/" target="_blank">
