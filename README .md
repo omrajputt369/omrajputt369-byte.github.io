@@ -1,12 +1,12 @@
 # 💥 OM CODES - Comic Style Portfolio 💥
 
-![Portfolio Preview](./images/portfolio-showcase.png)
+![Portfolio Preview](./images/new-portfolio-showcase.png)
 
 <p align="center">
-  <a href="https://github.com/omrajputt369-byte" target="_blank">
+  <a href="https://github.com/omrajputt369" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://comicsportfolio.netlify.app/" target="_blank">
+  <a href="https://omrajput.me/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-red?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
   </a>
 </p>
@@ -15,7 +15,7 @@ Welcome to the **OM CODES** repository! This is a personal portfolio website des
 
 ## 🔗 Live Demo
 
-You can view the live project here: [https://comicsportfolio.netlify.app/](https://comicsportfolio.netlify.app/)
+You can view the live project here: [https://omrajput.me/](https://omrajput.me/)
 
 ## 🌟 Features
 
@@ -92,7 +92,7 @@ Comics-Style-Portfolio/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/omrajputt369-byte/Comic-style-portfolio.git
+   git clone https://github.com/omrajputt369/omrajputt369-byte.github.io.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -124,21 +124,20 @@ Comics-Style-Portfolio/
 ## 📧 Contact
 
 - **Email**: omrajputt369@gmail.com
-- **GitHub**: [omrajputt369-byte](https://github.com/omrajputt369-byte)
+- **GitHub**: [omrajputt369](https://github.com/omrajputt369)
 - **LinkedIn**: [om-rajput369](https://www.linkedin.com/in/om-rajput369)
 - **Twitter**: [@k4bir17](https://x.com/k4bir17?s=21)
-- **Instagram**: [@omrajputt55](https://www.instagram.com/omrajputt55)
-- **Discord**: [kabir.17](https://discord.com/users/kabir.17)
-
+- **Instagram**: [@omrajput.14](https://www.instagram.com/omrajput.14)
+- **Discord**: [1069567515342159872](https://discord.com/users/1069567515342159872)
 ## 🌐 Project Links
 
 ### Featured Projects
-- **MinimalMart**: [GitHub](https://github.com/omrajputt369-byte/skincarewebsite)
-- **MangaVerse Portfolio**: [GitHub](https://github.com/omrajputt369-byte/mangastyleportfolio) | [Live](https://modernmangaportfolio.netlify.app/)
-- **iPhone Showcase**: [GitHub](https://github.com/omrajputt369-byte/applewebsite)
-- **Blog Website**: [GitHub](https://github.com/omrajputt369-byte/blogwebsite)
-- **ArcadeX**: [GitHub](https://github.com/omrajputt369-byte/game-desktop) | [Live](https://gamezx.netlify.app)
-- **TaskForge**: [GitHub](https://github.com/omrajputt369-byte/orbit-ai-task-manager) | [Live](https://orbitaitaskmanager.netlify.app)
+- **MinimalMart**: [GitHub](https://github.com/omrajputt369/skincarewebsite) | [Live](https://skincareproductswebsite.vercel.app/)
+- **MangaVerse Portfolio**: [GitHub](https://github.com/omrajputt369/mangastyleportfolio) | [Live](https://modernmangaportfolio.netlify.app/)
+- **iPhone Showcase**: [GitHub](https://github.com/omrajputt369/applewebsite) | [Live](https://applewebsitedemo-seven.vercel.app/)
+- **Blog Website**: [GitHub](https://github.com/omrajputt369/blogwebsite) | [Live](https://github.com/omrajputt369/blogwebsite)
+- **ArcadeX**: [GitHub](https://github.com/omrajputt369/game-desktop) | [Live](https://gamezx.netlify.app)
+- **TaskForge**: [GitHub](https://github.com/omrajputt369/orbit-ai-task-manager) | [Live](https://orbitaitaskmanager.netlify.app)
 
 ---
 
